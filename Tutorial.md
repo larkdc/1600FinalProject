@@ -10,8 +10,8 @@ Hopefully this is a given to everyone, but you do need an open window for this p
 Navigate to the 3 vertical dots in the top right hand corner of your window and click on them.
 They should look something like this:
 <br> 
-<br>
-![dots](https://user-images.githubusercontent.com/60192666/206579934-3e323e53-b5e5-452a-a056-f39f0fa2e982.png)
+<img width="1440" alt="Screen Shot 2022-12-08 at 4 43 04 PM" src="https://user-images.githubusercontent.com/60192666/206582847-789b854d-7be0-47ee-a720-9ce4e26634bb.png">
+
 
 ## Step 3: Hover your mouse over "More Tools" and then click "Clear Browsing Data..."
 You will find "More Tools" about 2/3 of the way down the drop down menu and "Clear Browsing Data" midway through the slide out menu. I have circled them in red below:
