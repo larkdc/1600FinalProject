@@ -5,4 +5,4 @@
 
 ### Target Audience: Any Chrome users that need help with clearing their cache and cookies. There is no particular target age group and very limited knowledge about the web browser Chrome is required.
 
-[Click Here for Tutorial](Tutorial.md)
+## [Click Here for Tutorial](Tutorial.md)
