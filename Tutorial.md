@@ -25,9 +25,9 @@ You can change the time range at the top for the desired amount of data you wish
 <img width="1440" alt="Screen Shot 2022-12-08 at 4 10 23 PM" src="https://user-images.githubusercontent.com/60192666/206582041-5cb5d967-9911-4cd6-a650-ebdb04e9d5b6.png">
 
 <br>
-I hope this solves any problems you are having with cookies or your cache on Chrome
+## I hope this solves any problems you are having with cookies or your cache on Chrome
 
-[Return to Home](README.md)
+## [Return to Home](README.md)
 
 
 
